@@ -21,7 +21,7 @@
 
 'use strict';
 
-const applicationServerPublicKey = '<Your Public Key>';
+const applicationServerPublicKey = 'BD-0Cbj5CpUy_qT5GF7t6hT6PVPEj9TKrnNHGp4YVIceFUQ-nWmEXzrTA5j2FzWHQ_07Z_GW4Ysz3HARjJSy56E';
 
 const pushButton = document.querySelector('.js-push-btn');
 
